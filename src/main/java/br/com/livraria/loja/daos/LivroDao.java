@@ -1,11 +1,11 @@
-package br.com.casadocodigo.loja.daos;
+package br.com.livraria.loja.daos;
 
 import java.util.List;
 
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;
 
-import br.com.casadocodigo.loja.models.Livro;
+import br.com.livraria.loja.models.Livro;
 
 public class LivroDao {
 

@@ -1,4 +1,4 @@
-package br.com.casadocodigo.loja.infra;
+package br.com.livraria.loja.infra;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

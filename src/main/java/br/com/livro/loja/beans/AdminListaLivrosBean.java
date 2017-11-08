@@ -1,4 +1,4 @@
-package br.com.casadocodigo.loja.beans;
+package br.com.livro.loja.beans;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -7,8 +7,8 @@ import javax.enterprise.inject.Model;
 import javax.faces.context.FacesContext;
 import javax.inject.Inject;
 
-import br.com.casadocodigo.loja.daos.LivroDao;
-import br.com.casadocodigo.loja.models.Livro;
+import br.com.livraria.loja.daos.LivroDao;
+import br.com.livraria.loja.models.Livro;
 
 @Model
 public class AdminListaLivrosBean {

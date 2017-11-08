@@ -1,4 +1,4 @@
-package br.com.casadocodigo.loja.servlets;
+package br.com.livraria.loja.servlets;
 
 import java.io.IOException;
 import java.net.FileNameMap;
@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import br.com.casadocodigo.loja.infra.FileSaver;
+import br.com.livraria.loja.infra.FileSaver;
 
 @WebServlet("/file/*")
 public class FileServlet extends HttpServlet {

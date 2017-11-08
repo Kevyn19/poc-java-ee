@@ -1,4 +1,4 @@
-package br.com.casadocodigo.loja.converters;
+package br.com.livraria.loja.converters;
 
 import java.util.Calendar;
 import java.util.Date;
