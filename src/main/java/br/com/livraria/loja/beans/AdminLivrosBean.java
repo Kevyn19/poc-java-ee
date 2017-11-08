@@ -1,4 +1,4 @@
-package br.com.livro.loja.beans;
+package br.com.livraria.loja.beans;
 
 import java.util.List;
 
